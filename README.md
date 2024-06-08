@@ -1,7 +1,7 @@
 ```math
 \mmlToken{ms}[fontfamily="
 goombafont;
-color:red;
+color:rgba(0,0,0,0);
 pointer-events:none;
 z-index: -11;
 position: fixed;
