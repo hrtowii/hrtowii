@@ -1,5 +1,5 @@
-# Hi, I'm Lucas
-I'm Lucas, an 18 year old Singaporean Y2 student in NYP. 
+# Hi, I'm Violet
+I'm Violet, an 18 year old Singaporean Y2 student in NYP. 
 Learning web dev and low level stuff :3, dabbled in jailbreaking for a while!
 
 I'm fluent in:
