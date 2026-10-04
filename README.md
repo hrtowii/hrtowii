@@ -1,10 +1,11 @@
 # Hi, I'm Lucas
-I'm Lucas, an 18 year old Singaporean Y2 student in NYP. 
+I'm Lucas, a SUTD Year 1 student. 
 Learning web dev and low level stuff :3, dabbled in jailbreaking for a while!
 
 I'm fluent in:
 * JS/TS
 * Python
+* C
 
 The technologies I'm fluent in are:
 * React
@@ -18,7 +19,6 @@ I'm currently learning:
 * Rust
 * Ruby
 * Go
-* C
 * C#
 * Swift(UI)
 * CTF pwn/RE
@@ -30,7 +30,7 @@ In the future, I want to learn:
 * Making my own OS
 
 # Reach out to me
-Check out my website [here](https://hrtowii.dev)
+Check out my website [here](https://hrtowii.dev) and [here](https://hrtowii.nekoweb.org)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/413331641109446656)](https://discord.com/users/413331641109446656)
 
